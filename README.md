@@ -1,1 +1,2 @@
 # ospGIt
+hello GIT!
